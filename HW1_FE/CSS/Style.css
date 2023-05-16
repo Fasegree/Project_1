@@ -1,0 +1,14 @@
+.main{
+	background-color: #bcd4e1;
+	padding: 20px;
+}
+h1 {
+	padding-left: 20px;
+}
+.post {
+	color: #fff;
+	background-color: #112f40;
+	border-radius: 20px;
+	padding: 5px 70px;
+	margin: 20px;
+}
